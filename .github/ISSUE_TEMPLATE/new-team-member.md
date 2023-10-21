@@ -6,8 +6,7 @@ title: "Onboarding <name>"
 ---
 
 - Onboarding champion: `@INSERT_HANDLE`
-- New person's name: `INSERT NAME`
-- New person's GitHub handle: `@INSERT_HANDLE`
+- New person's nrtsale: `@INSERT_HANDLE`
 
 ### Onboarding checklist
 
